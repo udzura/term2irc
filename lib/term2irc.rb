@@ -5,7 +5,7 @@ require "term2irc/version"
 # This must remain string green-backgrounded,
 # but currently it would truncate all the color info.
 
-module Term2irc
+module Term2IRC
   ATTRIBUTE_TABLE = {
     :reset     => ["0", "\x0f"],
     :bold      => ["1", "\x02"],

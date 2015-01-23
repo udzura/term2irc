@@ -5,7 +5,7 @@ require 'term2irc/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "term2irc"
-  spec.version       = Term2irc::VERSION
+  spec.version       = Term2IRC::VERSION
   spec.authors       = ["Uchio KONDO"]
   spec.email         = ["udzura@udzura.jp"]
   spec.summary       = %q{Terminal color to IRC color}
